@@ -1,4 +1,4 @@
-int t;
+	int t;
 	cin>>t;
 	while(t--){
 	    int a,b,c;
